@@ -1,5 +1,6 @@
-package java.persistence;
-import java.business.*;
+package persistence;
+import business.*;
+import model.*;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
