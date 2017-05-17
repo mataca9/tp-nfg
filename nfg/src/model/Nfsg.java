@@ -1,4 +1,4 @@
-package java.business;
+package model;
 
 import java.util.Date;
 

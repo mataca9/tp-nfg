@@ -1,4 +1,4 @@
-package java.business;
+package business;
 
 public class IpvaProcessor {
 	
